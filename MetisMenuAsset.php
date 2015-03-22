@@ -1,10 +1,10 @@
 <?php
 /**
- * AssetBundle.php
- * @author Revin Roman http://phptime.ru
+ * MetisMenuAsset.php
+ * @author Theophile Godard
  */
 
-namespace rmrevin\yii\fontawesome;
+namespace godardth\yii\metismenu;
 
 /**
  * Class AssetBundle
