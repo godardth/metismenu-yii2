@@ -1,0 +1,14 @@
+{
+    "name": "godardth/yii2-metismenu",
+    "description": "Integration of MetisMenu Plugin into Yii2 framework",
+    "require": {
+        "php": ">=5.3.0",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-bootstrap": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "godardth\\yii\\metismenu\\": ""
+        }
+    }
+}
